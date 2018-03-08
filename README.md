@@ -18,6 +18,7 @@ Check the [ongoing issues](https://github.com/phase-negative-one/tutorial-stars/
 - Python + Django
 - React with TypeScript
 - Git + GitHub
+- Material-UI
 
 ### Our problem-solving process
 
