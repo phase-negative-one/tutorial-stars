@@ -13,6 +13,12 @@ This is a project of the Phase[-1] community, and we only accept contribution fr
 
 Check the [ongoing issues](https://github.com/phase-negative-one/tutorial-stars/issues) that need work on in the priority list.
 
+### Tech Stack
+
+- Python + Django
+- React with TypeScript
+- Git + GitHub
+
 ### Our problem-solving process
 
 On the way we work together, we aim at:
