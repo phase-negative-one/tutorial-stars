@@ -39,7 +39,9 @@ Update in progress
 
 3. Open your terminal.
 4. `$ git clone https://github.com/phase-negative-one/tutorial-stars.git` - this tells your computer to fetch the data stored in this repository using git.
-5. `$ cd tutorial-stars` - change to the OpenFarm directory
+5. `$ cd tutorial-stars` 
+6. For front end `$ cd stars-front-end` 
+6. For back end `$ cd StarsBackend` 
 
 #### Contribution Guidelines
 
