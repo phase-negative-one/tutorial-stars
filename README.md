@@ -19,7 +19,7 @@ Check the [ongoing issues](https://github.com/phase-negative-one/tutorial-stars/
 - React with TypeScript
 - Git + GitHub
 - Material-UI
-
+- [Django JSON API](https://github.com/django-json-api/django-rest-framework-json-api)
 ### Our problem-solving process
 
 On the way we work together, we aim at:
