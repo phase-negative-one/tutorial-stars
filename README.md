@@ -30,9 +30,20 @@ On the way we work together, we aim at:
 
 Update in progress
 
-### Mockups
+### Wireframes
 
+#### Login/ Signup
 Update in progress
+
+#### Show Page 
+Update in progress
+
+#### Index Page
+Update in progress
+
+#### Post page
+Update in progress
+
 
 ## Development
 
