@@ -1,3 +1,5 @@
+![Tutorial Stars Logo](https://github.com/phase-negative-one/tutorial-stars/blob/master/stars-front-end/images/beta-TS-logo.png)
+
 # Tutorial Stars
 
 Open Source community of contributors: how it works
@@ -5,7 +7,7 @@ Open Source community of contributors: how it works
 
 ### About
 
-[Tutorial Stars](#) is a web app for ranking and reviewing paid, online web development courses. 
+[Tutorial Stars](#) is a web app for ranking and reviewing paid, online web development courses.
 
 ### Who can contribute
 
@@ -35,7 +37,7 @@ Update in progress
 #### Login/ Signup
 Update in progress
 
-#### Show Page 
+#### Show Page
 Update in progress
 
 #### Index Page
@@ -51,13 +53,13 @@ Update in progress
 
 3. Open your terminal.
 4. `$ git clone https://github.com/phase-negative-one/tutorial-stars.git` - this tells your computer to fetch the data stored in this repository using git.
-5. `$ cd tutorial-stars` 
-6. For front end `$ cd stars-front-end` 
-6. For back end `$ cd StarsBackend` 
+5. `$ cd tutorial-stars`
+6. For front end `$ cd stars-front-end`
+6. For back end `$ cd StarsBackend`
 
 #### Contribution Guidelines
 
-* All work should be done on branches and pull requested. 
+* All work should be done on branches and pull requested.
 * No --force pushes or modifying the Git history in any way.
 * Contributors should attempt to adhere to the prevailing code-style, and file structure.
-* Every code contribution *must* be accompanied by tests. Please follow the examples in the code to understand how to test. 
+* Every code contribution *must* be accompanied by tests. Please follow the examples in the code to understand how to test.
